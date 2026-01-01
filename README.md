@@ -4,7 +4,7 @@
   <a href=https://www.instagram.com/yanalhaj1?igsh=OGtqOXVjNGh1cndv&utm_source=qr>instagram</a>
 </p>
 
-- 🔭 I’m currently studying Software Engineering at [جامعة عمان العربية](https://example-link.com) 
+- 🔭 I’m currently studying Software Engineering at [amman arab uinverstiy ](https://aau.edu.jo/ar) 
 - 💬 Ask me about **C++, Git, and Software Development**
 - 📫 How to reach me: (https://www.instagram.com/yanalhaj1?igsh=OGtqOXVjNGh1cndv&utm_source=qr) on instgram
 - ⚡ i am  a chess player 
