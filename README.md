@@ -10,15 +10,7 @@
 - ⚡ i am  a chess player 
 -------
 
-**📝 Latest Projects**
 
-- [Project 1 - Description](https://linktoproject1.com)
-- [Project 2 - Description](https://linktoproject2.com)
-
--------
-
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
 
 ```txt
 No activity tracked
