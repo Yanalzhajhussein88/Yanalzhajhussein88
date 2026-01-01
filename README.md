@@ -1,16 +1,24 @@
-## Hi there 👋
+<h2 align="center">👋 Hello! I'm Yanal.</h2>
+<p align="center">
+  <a href="https://yourwebsite.com">Blog</a> • 
+  <a href=https://www.instagram.com/yanalhaj1?igsh=OGtqOXVjNGh1cndv&utm_source=qr>instagram</a>
+</p>
 
-<!--
-**Yanalzhajhussein88/Yanalzhajhussein88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying Software Engineering at [جامعة عمان العربية](https://example-link.com) 
+- 💬 Ask me about **C++, Git, and Software Development**
+- 📫 How to reach me: (https://www.instagram.com/yanalhaj1?igsh=OGtqOXVjNGh1cndv&utm_source=qr) on instgram
+- ⚡ i am  a chess player 
+-------
 
-Here are some ideas to get you started:
+**📝 Latest Projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Project 1 - Description](https://linktoproject1.com)
+- [Project 2 - Description](https://linktoproject2.com)
+
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
